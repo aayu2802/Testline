@@ -30,9 +30,10 @@ After the last question, view your score on the summary screen.
 Navigation:
 Use the "Back to Home" button on the summary screen to restart the quiz or exit.
 
-## Overview Of Application
+## Overview Of Application(Desktop View):
 ![Image](https://github.com/user-attachments/assets/ef3fe315-7379-479a-bcae-ebc755985aea)
 ![Image](https://github.com/user-attachments/assets/fe1870be-3684-426f-80fa-89b9c0fa2536)
+![Image](https://github.com/user-attachments/assets/af911248-af93-45c2-af87-21ac4a6181a6)
 
 
 
